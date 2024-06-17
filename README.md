@@ -16,7 +16,7 @@ This branch contains the implementation using Vuex for state management.
 
 ### Store Setup
 
-```
+```javascript
 // store.js
 import { createStore } from 'vuex';
 
@@ -46,7 +46,7 @@ export default createStore({
 
 Next, use the Vuex store in a Vue component:
 
-```
+```vue
 <template>
   <div>
     <p>{{ message }}</p>
