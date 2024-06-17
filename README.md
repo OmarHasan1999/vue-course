@@ -79,6 +79,11 @@ export default {
 ```sh
 npm install
 ```
+## vuex install
+
+```sh
+npm i vuex
+```
 
 ### Compile and Hot-Reload for Development
 
